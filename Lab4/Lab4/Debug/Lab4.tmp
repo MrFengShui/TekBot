@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>Z:\Templates\ece\Lab4\Lab4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\Templates\ece\Lab4\Lab4\Debug/Lab4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab4.map</FILE>
+  <FILE>Lab4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>54</LINE></INIT>
+  <BEG_A><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>321</LINE></BEG_A>
+  <MAIN><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>74</LINE></MAIN>
+  <ADD16><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>97</LINE></ADD16>
+  <MUL24><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>148</LINE></MUL24>
+  <DONE><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>84</LINE></DONE>
+  <MUL24_OLOOP><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>173</LINE></MUL24_OLOOP>
+  <MUL24_ILOOP><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>179</LINE></MUL24_ILOOP>
+  <MUL16><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>228</LINE></MUL16>
+  <MUL16_OLOOP><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>255</LINE></MUL16_OLOOP>
+  <MUL16_ILOOP><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>262</LINE></MUL16_ILOOP>
+  <FUNC><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>306</LINE></FUNC>
+  <END_A><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>323</LINE></END_A>
+  <BEG_B><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>324</LINE></BEG_B>
+  <END_B><FILE>Z:\Templates\ece\Lab4\Lab4\Lab4.asm</FILE><LINE>326</LINE></END_B>
+ </LABELS>
+</ASSEMBLER_INFO>

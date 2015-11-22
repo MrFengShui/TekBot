@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>Z:\Templates\ece\Lab5\Lab5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\Templates\ece\Lab5\Lab5\Lab5.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\Templates\ece\Lab5\Lab5\Debug/Lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab5.map</FILE>
+  <FILE>Lab5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>Z:\Templates\ece\Lab5\Lab5\Lab5.asm</FILE><LINE>70</LINE></INIT>
+  <HIT_RIGHT><FILE>Z:\Templates\ece\Lab5\Lab5\Lab5.asm</FILE><LINE>120</LINE></HIT_RIGHT>
+  <HIT_LEFT><FILE>Z:\Templates\ece\Lab5\Lab5\Lab5.asm</FILE><LINE>142</LINE></HIT_LEFT>
+  <MAIN><FILE>Z:\Templates\ece\Lab5\Lab5\Lab5.asm</FILE><LINE>103</LINE></MAIN>
+  <FUNC><FILE>Z:\Templates\ece\Lab5\Lab5\Lab5.asm</FILE><LINE>169</LINE></FUNC>
+  <WAIT_LOOP><FILE>Z:\Templates\ece\Lab5\Lab5\Lab5.asm</FILE><LINE>175</LINE></WAIT_LOOP>
+  <OLOOP><FILE>Z:\Templates\ece\Lab5\Lab5\Lab5.asm</FILE><LINE>177</LINE></OLOOP>
+  <ILOOP><FILE>Z:\Templates\ece\Lab5\Lab5\Lab5.asm</FILE><LINE>179</LINE></ILOOP>
+ </LABELS>
+</ASSEMBLER_INFO>

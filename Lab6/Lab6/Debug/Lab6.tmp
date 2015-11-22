@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>Z:\Templates\ece\Lab6\Lab6\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>Z:\Templates\ece\Lab6\Lab6\Debug/Lab6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab6.map</FILE>
+  <FILE>Lab6.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>63</LINE></INIT>
+  <INCREMENT><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>105</LINE></INCREMENT>
+  <DECREMENT><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>116</LINE></DECREMENT>
+  <TIM0_COMPA><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>130</LINE></TIM0_COMPA>
+  <MAIN><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>102</LINE></MAIN>
+  <RETURN><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>127</LINE></RETURN>
+  <WAIT_10SEC><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>145</LINE></WAIT_10SEC>
+  <Wait><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>149</LINE></Wait>
+  <Loop><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>154</LINE></Loop>
+  <OLoop><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>157</LINE></OLoop>
+  <ILoop><FILE>Z:\Templates\ece\Lab6\Lab6\Lab6.asm</FILE><LINE>160</LINE></ILoop>
+ </LABELS>
+</ASSEMBLER_INFO>
